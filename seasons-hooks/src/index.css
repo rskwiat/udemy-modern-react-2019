@@ -1,0 +1,16 @@
+*{ box-sizing: border-box; }
+
+.error {
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.error h4 {
+  color: #DB2828;
+}
+
+.ui.container.error {
+  display: flex;
+}
